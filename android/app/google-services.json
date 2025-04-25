@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454416912877",
+    "project_id": "have-you-ever-been-like-that",
+    "storage_bucket": "have-you-ever-been-like-that.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454416912877:android:840ffeb9b208fce97017e4",
+        "android_client_info": {
+          "package_name": "com.inu.have_you_ever_been_like_that.have_you_ever_been_like_that"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkP6tCsE0ra9DOsWjyFNMfs9Kvc-qbGLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
